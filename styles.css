@@ -1,0 +1,25 @@
+body {
+  background-color: silver;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-wrapper {
+  background-color: white;
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px 50px;
+  height: 90vh;
+}
+
+.main-pick {
+  width: 100%;
+}
+
+.post-title {
+  margin-bottom: 0;
+}
+
+.post-date {
+  margin-top: 0;
+  font-size: 0.8em;
+}
